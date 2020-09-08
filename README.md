@@ -1,4 +1,4 @@
-# **A foolproof way to shrink deep  learning models**
+# A foolproof way to shrink deep<br/>learning models
 ### Researchers unveil a pruning algorithm to make<br/>artificial intelligence applications run faster.
 #### Kim Martineau | MIT Quest for Intelligence<br/>April 30, 2020
 
